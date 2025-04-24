@@ -1,0 +1,21 @@
+# This is a placeholder for the Excel file. You'll need to create an actual Excel file with the following sheets:
+
+1. UserData
+   - email
+   - password
+   - name
+   - mobile
+
+2. ProductData
+   - productName
+   - priceRange
+   - brand
+   - material
+
+3. AddressData
+   - fullName
+   - mobile
+   - pincode
+   - address
+   - city
+   - state 

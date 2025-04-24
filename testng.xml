@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Urban Ladder Test Suite">
+    <test name="Functional Tests">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.urbanladder.tests.UrbanLadderTest"/>
+        </classes>
+    </test>
+</suite> 
